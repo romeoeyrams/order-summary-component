@@ -1,0 +1,98 @@
+
+
+body{
+    font-family: 'Red Hat Display', sans-serif;
+    background-image: url("./images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
+}
+
+.main{
+    background-color: hsl(0, 0%, 100%);
+    height: 500px;
+    width: 320px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+.card{
+    height: 500px;
+    width:320px;
+    border-radius: 10px;
+    background-color: white;
+    
+
+
+    .green{
+        height: 70px;
+        width: 270px;
+        background-color: hsl(225, 100%, 98%);
+        border-radius: 5px;
+        margin-left: 25px;
+     }
+
+
+     .annual{
+        margin-top: -40px;
+    }
+
+     .span-musicicon{
+        margin-left: 200px;
+       }
+
+    .span-annualplan{
+        margin-left: 70px;
+    }
+
+    .span-annualprice{
+        margin-left: 70px;
+        color: gray;
+    }
+
+    .change{
+        margin-left: 200px;
+        margin-top: -50px;
+    }
+
+   
+.musicicon{
+    height: 40px;
+    width: 40px;
+    margin-top: 13px;
+    margin-left: 15px;
+}
+
+
+.text,h5{
+    text-align: center;
+}
+
+.info{
+    font-size: 13px;
+    color: grey;
+}
+
+.illustration-hero{
+    width: 320px;
+    border-radius: 10px;
+}
+
+.button{
+        background-color:  hsl(245, 75%, 52%);
+        border: none;
+        color: white;
+        border-radius: 5px;
+        height: 40px;
+        width: 270px;
+        margin-left: 25px;
+        cursor: pointer;
+        box-shadow: 0px 5px 5px 5px rgba(141, 140, 140, 0.418);
+    }
+}
+
+
+.reaction,.memory,.verbal,.visual{
+    margin-top: -23px;
+}
